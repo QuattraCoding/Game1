@@ -1,0 +1,22 @@
+run:
+*****************************
+*                           *
+*         Project Q         *
+*                           *
+*      1. Play              *
+*      2. Continue          *
+*      3. Addons            *
+*                           *
+*****************************
+Navigera med input av siffra:
+3
+Addon 1: false
+Addon 2: false
+Addon 3: false
+Addon 4: false
+
+
+
+
+5
+BUILD SUCCESSFUL (total time: 3 seconds)
